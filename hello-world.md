@@ -83,7 +83,7 @@ When you're shopping online and add something to your cart, it's most likely jav
 </html>
 ```
 
-### ^^^^^ Add some codeblocks of course! We use highlight.js for code highlighting!
+### ^^^^^ Add some codeblocks! We use highlight.js!
 
 ## What others think
 
