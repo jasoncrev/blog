@@ -9,7 +9,7 @@ published: 1/1/2021
 updated: 1/5/2021
 seo_canonical: https://yemi.blog
 seo_description: fake description
-seo_title: fake title
+seo_title: faker title
 ---
 ## What is web development?
 
