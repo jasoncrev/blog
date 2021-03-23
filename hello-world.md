@@ -51,7 +51,7 @@ When you're shopping online and add something to your cart, it's most likely jav
 
 ### [Back to Yemi](https://yemi.blog/#login)
 
-## Can you show me an example of this code?
+## Can you show an example of this code?
 
 ```
 <html>
