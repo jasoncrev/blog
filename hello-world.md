@@ -1,15 +1,15 @@
 ---
-author: Joe Smith
-avatar_url: https://github.com/
+author:
+avatar_url:
 header_pic_url: https://github.com/crevizzle/blog/raw/main/web-dev.jpg
 link_preview_url: https://github.com/crevizzle/blog/raw/main/web-dev.jpg
 title: Web Development Basics
 subtitle: An example article for the Yemi blogging platform
-published: 1/1/2021
-updated: 1/5/2021
-seo_canonical: https://yemi.blog
-seo_description: fake seo description
-seo_title: fake seo title
+published:
+updated:
+seo_canonical:
+seo_description:
+seo_title:
 ---
 ## What is web development?
 
