@@ -91,7 +91,7 @@ When you're shopping online and add something to your cart, it's most likely jav
 
 ## How do I get started?
 
-### Start by reading
+### Start by reading these
 
 Mozilla's [MDN](https://developer.mozilla.org/en-US/docs/Learn) resources are excellent!
 
