@@ -1,19 +1,16 @@
 ---
-{
-  "author": "Joe Smith",
-  "avatar_url": "https://github.com/",
-  "link_preview_url": "https://github.com/crevizzle/blog/raw/main/web-dev.jpg",
-  "title": "Web Development Basics",
-  "subtitle": "An example article for the Yemi blogging platform",
-  "published": "1/1/2021",
-  "updated": "1/5/2021",
-  "seo_canonical": "https://yemi.blog",
-  "seo_description": "fake description",
-  "seo_title": "fake title"
-}
+author: Joe Smith
+avatar_url: https://github.com/
+header_pic_url: https://github.com/crevizzle/blog/raw/main/web-dev.jpg
+link_preview_url: https://github.com/crevizzle/blog/raw/main/web-dev.jpg
+title: Web Development Basics
+subtitle: An example article for the Yemi blogging platform
+published: 1/1/2021
+updated: 1/5/2021
+seo_canonical: https://yemi.blog
+seo_description: fake description
+seo_title: fake title
 ---
-![web-dev](https://github.com/crevizzle/blog/raw/main/web-dev.jpg)
-
 ## What is web development?
 
 According to [wikipedia](https://en.wikipedia.org/wiki/Web_development), web development is
