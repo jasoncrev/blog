@@ -25,7 +25,7 @@ Here is how we sum up web development: It's the processes, languages and tools w
 
 Some people refer to web development as webdev.
 
-There are three key "languages" in webdev today:
+There are three main "languages" in webdev today:
 
 1) HTML
 2) CSS
