@@ -8,8 +8,8 @@ subtitle: An example article for the Yemi blogging platform
 published: 1/1/2021
 updated: 1/5/2021
 seo_canonical: https://yemi.blog
-seo_description: fake description
-seo_title: fake title
+seo_description: fake seo description
+seo_title: fake seo title
 ---
 ## What is web development?
 
