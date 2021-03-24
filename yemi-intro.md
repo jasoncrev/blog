@@ -1,16 +1,14 @@
 ---
-{
-  "author": "",
-  "avatar_url": "",
-  "link_preview_url": "",
-  "title": "Introducing Yemi",
-  "subtitle": "A blogging platform designed for lovers of git and markdown",
-  "published": "",
-  "updated": "",
-  "seo_canonical": "",
-  "seo_description": "No need to setup a static site generator or server. We take care of the hosting, so you can start writing.",
-  "seo_title": "A blogging platform designed for lovers of git and markdown"
-}
+author: 
+avatar_url: 
+link_preview_url: 
+title: Introducing Yemi
+subtitle: A blogging platform designed for lovers of git and markdown
+published: 
+updated: 
+seo_canonical: 
+seo_description: No need to setup a static site generator or server. We take care of the hosting, so you can start writing.
+seo_title: A blogging platform designed for lovers of git and markdown
 ---
 
 ## What's Yemi?
