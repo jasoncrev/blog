@@ -12,7 +12,6 @@ seo_canonical:
 seo_description:
 seo_title:
 ---
-
 ## What is web development?
 
 According to [wikipedia](https://en.wikipedia.org/wiki/Web_development), web development is
