@@ -1,7 +1,7 @@
 ---
 author:
 avatar_url:
-header_pic_attribution: unknown person from the web
+header_pic_attribution: 
 header_pic_url: https://github.com/jasoncrev/blog/raw/main/web-dev.jpg
 link_preview_url: https://github.com/jasoncrev/blog/raw/main/web-dev.jpg
 title: Web Development Basics

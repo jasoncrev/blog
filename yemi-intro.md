@@ -1,6 +1,8 @@
 ---
 author: 
 avatar_url: 
+header_pic_attribution: 
+header_pic_url: https://github.com/jasoncrev/blog/raw/main/yemi-logo.png
 link_preview_url: 
 title: Introducing Yemi
 subtitle: A blogging platform designed for lovers of git and markdown
