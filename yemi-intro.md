@@ -12,6 +12,7 @@ seo_canonical:
 seo_description: No need to setup a static site generator or server. We take care of the hosting, so you can start writing.
 seo_title: A blogging platform designed for lovers of git and markdown
 ---
+
 ## What's Yemi?
 
 (rhymes with the name 'Jimmy')
